@@ -1,6 +1,6 @@
          Olá, Bem Vindo! Me chamo Thayna 👋
 
-- 💻Estou trabalhando com Front-End (JavaScript, HTML5 e CSS3).
+- 💻 Estou estudando Front-End (JavaScript, HTML5 e CSS3).
 - 📚 Estou aprendendo: SQL, Java e C#.
 - 📤 Contate-me no e-mail thaynadev@hotmail.com
 - 🔑https://www.linkedin.com/in/thaynadev/
