@@ -1,7 +1,7 @@
          Olá, Bem Vindo! Me chamo Thayna 👋
 
-- 💻 Estou estudando Front-End (JavaScript, HTML5 e CSS3).
-- 📚 Estou aprendendo: SQL, Java e C#.
+- 💻 Com conhecimento em Front-End (JavaScript, HTML5 e CSS3) e Excel Avançado.
+- 📚 Estou aprendendo: SQL Server 2019, Java, PowerBI e C#.
 - 📤 Contate-me no e-mail thaynadev@hotmail.com
 - 🔑https://www.linkedin.com/in/thaynadev/
 - 🎀 Pronouns: Ela/dela
