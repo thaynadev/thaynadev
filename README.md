@@ -4,7 +4,8 @@
 - 📚 Estou aprendendo: SQL Server 2019, Java, PowerBI e C#.
 - 📤 Contate-me no e-mail thaynadev@hotmail.com
 - 🔑https://www.linkedin.com/in/thaynadev/
-     https://cursos.alura.com.br/degree/certificate/a6e5259a-6002-487a-9f31-1c4727375b23
+   
+    https://cursos.alura.com.br/degree/certificate/a6e5259a-6002-487a-9f31-1c4727375b23
 - 🎀 Pronouns: Ela/dela
   <br>
  <div>
