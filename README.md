@@ -2,7 +2,7 @@
 
 - 💻 Com conhecimento em Front-End (JavaScript, HTML5 e CSS3) e Excel Avançado.
 - 📚 Estou aprendendo: SQL Server 2019, Java, PowerBI e C#.
-- 📤 Contate-me no e-mail thaynadev@hotmail.com
+- 📤 Contate-me no e-mail ....
 - 🔑https://www.linkedin.com/in/thaynadev/
    
     https://cursos.alura.com.br/degree/certificate/a6e5259a-6002-487a-9f31-1c4727375b23
